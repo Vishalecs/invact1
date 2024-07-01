@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/invact1/static/css/main.dd0d5e2e.css",
+    "main.js": "/invact1/static/js/main.0f53a23d.js",
+    "index.html": "/invact1/index.html",
+    "main.dd0d5e2e.css.map": "/invact1/static/css/main.dd0d5e2e.css.map",
+    "main.0f53a23d.js.map": "/invact1/static/js/main.0f53a23d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd0d5e2e.css",
+    "static/js/main.0f53a23d.js"
+  ]
+}
